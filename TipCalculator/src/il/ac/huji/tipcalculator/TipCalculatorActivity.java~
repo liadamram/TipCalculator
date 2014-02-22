@@ -1,5 +1,5 @@
 package il.ac.huji.tipcalculator;
-//test if commit works
+
 import il.ac.huji.tipcalculator.R.id;
 import android.os.Bundle;
 import android.app.Activity;
